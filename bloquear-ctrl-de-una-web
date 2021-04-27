@@ -1,15 +1,6 @@
 El siguiente código te permite bloquear la tecla CTRL en tu sitio web. 
-Puedes añadir más combinaciones duplicando lo siguiente y modificando la letra de bloqueo.
-Ejemplo:
-
-     shortcut.add("Ctrl+P",function(){
-     alert('Esta combinación es para imprimir una captura de la web lo cual ahora ya no será posible.')
-    }),    
-     shortcut.add("Meta+Alt+P",function(){
-     alert('Esta combinación es para imprimir una captura de la web lo cual ahora ya no será posible.')
-    }), 
-    
-    
+Puedes añadir más combinaciones según lo creas conveniente.
+ 
 [Inicio del código]
 
 <script>
